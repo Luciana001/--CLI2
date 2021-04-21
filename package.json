@@ -1,0 +1,31 @@
+{
+  "name": "@luciana001/holidates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luciana001/--CLI2.git"
+  },
+  "keywords": [
+    "luciana001",
+    "holidates",
+    "npm"
+  ],
+  "author": "lucia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luciana001/--CLI2/issues"
+  },
+  "homepage": "https://github.com/Luciana001/--CLI2#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "country-list": "^2.2.0"
+  },
+  "bin": {
+    "holidates": "index.js"
+  }
+}
